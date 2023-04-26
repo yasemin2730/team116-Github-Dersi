@@ -10,7 +10,22 @@ public class C02 {
     asagıdaki 3 komut bizim dosyalarımizi her yedeklemek istediğimizde kullanılır.
 
     1. git add. : son kaydedilen versiyondan sonra
-                projede yapılan degişiklikleri kaydeder
+                projede yapılan degişiklikleri belirler.
+
+    2. git commit -m "commit ismi" :
+                        projenin son durumunu bir versiyon olarak kaydeder
+                        burada  "" icinde yazilan commit isminin anlamli
+                        olmasinda fayda vardir.
+                        ilerleyen asamalarda geri donus yapmak istersek
+                        hangi commit'e donmek isteyeceğimizi
+                        aciklamalardan bulabiliriz.
+
+                       git ile ilisiklerdirdiğimiz  dosyadaki class isimleri git durumuna göre renklenir
+
+                       Kirmizi: bu class herhangi bir versiyona eklenmedi
+                       mavi: bu dosya bir versiyona eklendi ama sonradan degisiklik yapilmiş
+                       siyah: bu class bir versiyonda son haliyle yedeklendi sonrasında hic bir degisiklik yok
+                        
 
 
 
