@@ -25,8 +25,18 @@ public class C02 {
                        Kirmizi: bu class herhangi bir versiyona eklenmedi
                        mavi: bu dosya bir versiyona eklendi ama sonradan degisiklik yapilmiş
                        siyah: bu class bir versiyonda son haliyle yedeklendi sonrasında hic bir degisiklik yok
-                        
 
+      3. git push : Local repo'da commit ettigimiz dosyalarimizi
+                    uzak masaüstüne (Github) ne yollamak için kullanılır.
+
+
+                    Local bilgisayarda olusturdugumuz repo yu Github'a yollamak ve orada
+                    yedeklemek istiyorsak öncelikle Github hesabi olusturmamiz ve sonrasinda
+                    projemizi gönderecegimiz Github repo'sunu hazirlamamiz gerekir.
+
+
+                    Github'ta yeni bir repository olusturduğumuzda ilk kullanimda local Repo ile
+                     repo ile bağlanti kurmamız gerekir
 
 
      */
